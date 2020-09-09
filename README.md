@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+
 
 :books: I’m currently studying Computer Science at University of Pisa, Italy
 
@@ -6,7 +7,7 @@
 
 :house: I'm currently living in Italy
 
-📫 How to reach me: :bird: [Twitter](https://twitter.com/0xfederama)
+📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-0xfederama-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vgfede@gmail.com)](mailto:vgfede@gmail.com)
 
 <!-- - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
