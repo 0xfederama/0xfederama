@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+:books: I’m currently studying Computer Science at University of Pisa, Italy
 
-- :books: I’m currently studying Computer Science at University of Pisa, Italy
-- 🌱 I’m currently learning GO and C
-- 📫 How to reach me: :bird: [Twitter](https://twitter.com/0xfederama)
+🌱 I’m currently learning GO and C
+
+:house: I'm currently living in Italy
+
+📫 How to reach me: :bird: [Twitter](https://twitter.com/0xfederama)
+
 <!-- - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
