@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Federico 👋
 
 
 :books: I’m currently studying Computer Science at University of Pisa, Italy
