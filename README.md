@@ -1,11 +1,11 @@
 ## Hi there, I'm Federico 👋
 
 
-:books: I’m currently studying Computer Science at University of Pisa, Italy
+:books: I’m studying Computer Science at University of Pisa, Italy
 
-🌱 I’m currently learning GO and C
+🌱 I’m learning GO and C
 
-:house: I'm currently living in Italy
+:house: I live in Italy
 
 [![Gmail Badge](https://img.shields.io/badge/-0xfederama-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vgfede@gmail.com)](mailto:vgfede@gmail.com)
 
