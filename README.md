@@ -17,7 +17,8 @@
 - ⚡ Fun fact: ... -->
 
 
-<!-- [![0xfederama's github stats](https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=2f80ed&icon_color=26cb4c&text_color=565252&bg_color=fff)](https://github.com/0xfederama) --> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfederama&layout=compact)](https://github.com/0xfederama)
+<!-- [![0xfederama's github stats](https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=2f80ed&icon_color=26cb4c&text_color=565252&bg_color=fff)](https://github.com/0xfederama) --> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfederama&layout=compact)](https://github.com/0xfederama)
 
 
 <!-- [![0xfederama's github stats](https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/0xfederama) -->
