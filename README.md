@@ -9,14 +9,7 @@
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-0xfederama-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vgfede@gmail.com)](mailto:vgfede@gmail.com) -->
 
-![Metrics](https://metrics.lecoq.io/0xfederama)
-
-<!-- - 💬 Ask me about ...
-📫 How to reach me: 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+![Metrics](https://metrics.lecoq.io/0xfederama?template=classic&languages=1&config.timezone=Europe%2FRome&config.animated=true)
 
 
 <!-- [![0xfederama's github stats](https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=2f80ed&icon_color=26cb4c&text_color=565252&bg_color=fff)](https://github.com/0xfederama) --> 
