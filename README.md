@@ -7,7 +7,7 @@
 
 :house: I live in Italy
 
-[![Gmail Badge](https://img.shields.io/badge/-0xfederama-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vgfede@gmail.com)](mailto:vgfede@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-0xfederama-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vgfede@gmail.com)](mailto:vgfede@gmail.com) -->
 
 ![Metrics](https://metrics.lecoq.io/0xfederama)
 
