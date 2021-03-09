@@ -3,7 +3,7 @@
 
 :books: I’m studying Computer Science at University of Pisa, Italy
 
-🌱 I’m learning GO, C and Java
+🌱 I’m learning Python, Go, C and Java
 
 :house: I live in Italy
 
