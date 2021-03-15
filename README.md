@@ -9,8 +9,7 @@
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-0xfederama-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vgfede@gmail.com)](mailto:vgfede@gmail.com) -->
 
-![Metrics](https://metrics.lecoq.io/0xfederama?template=classic&languages=1&config.timezone=Europe%2FRome&config.animated=true)
-
+![Metrics](https://metrics.lecoq.io/0xfederama?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome)
 
 <!-- [![0xfederama's github stats](https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=2f80ed&icon_color=26cb4c&text_color=565252&bg_color=fff)](https://github.com/0xfederama) --> 
 
