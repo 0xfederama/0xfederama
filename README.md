@@ -3,7 +3,7 @@
 
 :books: I’m studying Computer Science at University of Pisa, Italy
 
-🌱 I’m learning Python, Go and DevOps
+:seedling: I’m learning Python, Go and DevOps
 
 :house: I live in Italy
 
