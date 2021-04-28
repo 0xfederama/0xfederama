@@ -3,13 +3,15 @@
 
 :books: I’m studying Computer Science at University of Pisa, Italy
 
-🌱 I’m learning Python, Go, C and Java
+🌱 I’m learning Python, Go and DevOps
 
 :house: I live in Italy
 
 <!-- ![Metrics](https://metrics.lecoq.io/0xfederama?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfederama&layout=compact)](https://github.com/0xfederama)-->
+
+<br>
 
 ### Languages and Tools:
 
@@ -22,13 +24,12 @@ Languages:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
 </span>
 
+  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  
 Backend:
 <span>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/libp2p/libp2p/a13997787e57d40d6315b422afbe1ceb62f45511/logo/libp2p-logo.png" alt="libp2p" height="25" />  
 </span>
-
-
-  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 Frontend:
 <span>
