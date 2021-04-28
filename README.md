@@ -43,9 +43,9 @@ Databases:
 
 DevOps:
 <span>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" height="25" />  
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" alt="RaspberryPi" height="25px" width="25px"></img>
 </span>
