@@ -15,6 +15,8 @@
 
 ### Languages and Tools:
 
+  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
 Languages:
 <span>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25"></img>
@@ -23,8 +25,6 @@ Languages:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C++" height="25"></img>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
 </span>
-
-  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   
 Backend:
 <span>
