@@ -1,9 +1,9 @@
 ## Hi there, I'm Federico 👋
 
 
-:books: I’m studying Computer Science at University of Pisa, Italy
+:books: I'm studying Computer Science at University of Pisa, Italy
 
-:seedling: I’m learning Python, Go and DevOps
+:seedling: I'm learning Python, Go and DevOps
 
 :house: I live in Italy
 
