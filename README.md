@@ -1,9 +1,10 @@
 ## Hi there, I'm Federico 👋
 
+:mortar_board: I have a Bachelor's Degree in Computer Science at University of Pisa, Italy
 
-:books: I'm studying Computer Science at University of Pisa, Italy
+:books: I'm attending a Master in Software at University of Pisa, Italy
 
-:seedling: I'm learning Python, Go and DevOps
+:seedling: I love Go and I'm learning Python, C++ and DevOps
 
 :house: I live in Italy
 
