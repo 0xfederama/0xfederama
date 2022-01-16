@@ -4,7 +4,7 @@
 
 :books: I'm attending a Master in Software at University of Pisa, Italy
 
-:seedling: I love Go and I'm learning Python, C++ and DevOps
+:seedling: I love Go and I'm learning Python, C++, Swift/SwiftUI and DevOps
 
 :house: I live in Italy
 
@@ -37,6 +37,7 @@ Backend:
 
 Frontend:
 <span>
+<img style="margin: 10px" src="https://camo.githubusercontent.com/471c6ba43f0f163be29c1b5ae7ba46b4849cc2f075bc0a73b901af14b4524624/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f737769667475692f737769667475692d39367839365f32782e706e67" alt="SwiftUI" height="25" />
 <img style="margin: 10px" src="https://kicad-info.s3.dualstack.us-west-2.amazonaws.com/original/3X/b/9/b91c8ab3a3c1c8679127cf049b46fa919e9e0e5c.png" alt="hugo" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
 </span>
