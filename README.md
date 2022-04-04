@@ -4,7 +4,7 @@
 
 :books: I'm attending a Master in Software at University of Pisa, Italy
 
-:seedling: I love Go and I'm learning Python, C++, Swift/SwiftUI and DevOps
+:seedling: I know Go, Python, C/C++, Java and OCaml and I'm learning Swift/SwiftUI and Haskell
 
 :house: I live in Italy
 
