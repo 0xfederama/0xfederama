@@ -2,7 +2,7 @@
 
 :mortar_board: I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software.
 
-:seedling: I know Go, Python, C/C++, Java and OCaml and I'm learning Swift/SwiftUI and Haskell
+:seedling: I know Go, Python, C/C++, Java and OCaml and I'm learning Swift/SwiftUI
 
 <!-- ![Metrics](https://metrics.lecoq.io/0xfederama?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome) -->
 
