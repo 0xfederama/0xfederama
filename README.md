@@ -1,18 +1,35 @@
-## Hi there, I'm Federico 👋
+### Hi there, I'm Federico 👋
 
-:mortar_board: I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software.
+#### I am 22 years old Master Student in Computer Science at University of Pisa.
 
-:seedling: I know Go, Python, C/C++, Java and OCaml and I'm learning Swift/SwiftUI.
+##### BIO
+- 🎓 I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software
+- 🧐 I am interested in backend development, particularly in server-side applications and compilers/interpreters
+- 🌱 Currently learning Swift/SwiftUI and Rust
+- 📫 Reach me at [vgfede@gmail.com](mailto:vgfede@gmail.com) and [vgfede](twitter.com/vgfede)
+
+##### SKILLS
+- 💻 I know Go, Python, C/C++, Java and OCaml
+- ⚙ I can write efficient parallel programs in every language I know
+- 🛠 Developed a compiler for a C-like language in OCaml and ocamllex
+- ☁️ Developed a microservices-based application in Python and Docker using Flask, Redis and mySQL
+- 💾 I love Unix and can use both Linux and macOS
+
+##### PROJECTS ⬇️
+
+<!-- 
+<details>
+<summary>Statistics</summary>
 
 <!-- ![Metrics](https://metrics.lecoq.io/0xfederama?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FRome) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfederama&layout=compact)](https://github.com/0xfederama)-->
 
+<!-- <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
 
-  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</details>
 
-
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 Languages:
 <span>
@@ -40,4 +57,4 @@ Tools:
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" alt="RaspberryPi" height="25px" width="25px"></img>
-</span>
+</span> -->
