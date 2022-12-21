@@ -12,7 +12,7 @@
 - 💻 I know Go, Python, C/C++, Java and OCaml
 - ⚙ I can write efficient parallel programs in every language I know
 - 🛠 Developed a compiler for a C-like language in OCaml and ocamllex
-- ☁️ Developed a microservices-based application in Python and Docker using Flask, Redis and mySQL
+- ☁️ Developed a microservices-based application in Python and Docker using Flask, Postgres and mySQL
 - 💾 I love Unix and can use both Linux and macOS
 
 ##### PROJECTS ⬇️
