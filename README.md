@@ -1,17 +1,17 @@
 ### Hi there, I'm Federico 👋
 
-#### I am 22 years old Master Student in Computer Science at University of Pisa.
+#### I am 23 years old Master Student in Computer Science at University of Pisa.
 
 ##### BIO
 - 🎓 I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software
 - 🧐 I am interested in backend development, particularly in server-side applications and compilers/interpreters
-- 🌱 Currently learning Swift/SwiftUI and Rust
-- 📫 Reach me at [vgfede@gmail.com](mailto:vgfede@gmail.com) and [vgfede](twitter.com/vgfede)
+- 🌱 Currently learning Rust and SwiftUI
+- 📫 Reach me at [vgfede@gmail.com](mailto:vgfede@gmail.com) and [vgfede](https://twitter.com/vgfede)
 
 ##### SKILLS
 - 💻 I know Go, Python, C/C++, Java and OCaml
 - ⚙ I can write efficient parallel programs in every language I know
-- 🛠 Developed a compiler for a C-like language in OCaml and ocamllex
+- 🛠 Developed a compiler for a C-like language in OCaml, ocamllex and Menhir
 - ☁️ Developed a microservices-based application in Python and Docker using Flask, Postgres and mySQL
 - 💾 I love Unix and can use both Linux and macOS
 
