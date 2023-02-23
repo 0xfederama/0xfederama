@@ -1,6 +1,6 @@
 ### Hi there, I'm Federico 👋
 
-#### I am 23 years old Master Student in Computer Science at University of Pisa.
+#### I am a 23 years old Master Student in Computer Science at University of Pisa.
 
 ##### BIO
 - 🎓 I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software
