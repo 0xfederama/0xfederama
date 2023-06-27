@@ -5,15 +5,14 @@
 ##### BIO
 - 🎓 I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software
 - 🧐 I am interested in backend development, particularly in server-side applications and compilers/interpreters
-- 🌱 Currently learning Rust
-- 📫 Reach me at [vgfede@gmail.com](mailto:vgfede@gmail.com) and [vgfede](https://twitter.com/vgfede)
+- 📫 You can reach me at [vgfede@gmail.com](mailto:vgfede@gmail.com) or visit my website [federama.dev](www.federama.dev)
+<!-- - 🌱 Currently studying and learning Rust -->
 
 ##### SKILLS
-- 💻 I know Go, Python, C/C++, Java, Rust and OCaml
+- 💻 I know Go, Python, C/C++, OCaml, Rust and Java
 - ⚙ I can write efficient parallel programs in every language I know
-- 🛠 Developed a compiler for a C-like language in OCaml, ocamllex and Menhir
-- ☁️ Developed a microservices-based application in Python and Docker using Flask, Postgres and mySQL
-- 💾 I love Unix and can use both Linux and macOS
+- 🛠 I developed a compiler for a C-like language in OCaml, ocamllex and menhir
+- ☁️ I developed a microservices-based application in Python and Docker using Flask, Postgres and mySQL
 
 ##### PROJECTS ⬇️
 
