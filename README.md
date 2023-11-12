@@ -6,7 +6,7 @@
 - 🎓 I have a Bachelor's Degree in Computer Science at University of Pisa and I'm attending a Master in Software
 - 🧐 I am interested in backend development, particularly in server-side applications and compilers/interpreters
 - 📫 You can reach me at [vgfede@gmail.com](mailto:vgfede@gmail.com) or visit my website [federama.dev](www.federama.dev)
-<!-- - 🌱 Currently studying and learning Rust -->
+- 🌱 Currently polishing my skills in Go, learning how to write REST APIs with it
 
 ##### SKILLS
 - 💻 I know Go, Python, C/C++, OCaml, Rust and Java
