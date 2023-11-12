@@ -11,8 +11,8 @@
 ##### SKILLS
 - 💻 I know Go, Python, C/C++, OCaml, Rust and Java
 - ⚙ I can write efficient parallel programs in every language I know
-- 🛠 I developed a compiler for a C-like language in OCaml, ocamllex and menhir
-- ☁️ I developed a microservices-based application in Python and Docker using Flask, Postgres and mySQL
+- 🛠 I developed an interpreter for quantum protocols (ccs) in OCaml, ocamllex and menhir
+- ☁️ I developed two microservices-based applications in Python and Docker using Flask, Postgres and mySQL
 
 ##### PROJECTS ⬇️
 
@@ -26,7 +26,7 @@
 
 <!-- <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xfederama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> -->
 
-</details>
+<!-- </details> -->
 
 <!-- ### Languages and Tools:
 
