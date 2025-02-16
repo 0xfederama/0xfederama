@@ -1,6 +1,6 @@
 ### Hi there, I'm Federico 👋
 
-#### I am a 24 years old Software Engineer based in Italy.
+#### I am a 25 years old Software Engineer based in Italy.
 
 ##### BIO
 - 🎓 I have a Master's Degree in Computer Science at University of Pisa
@@ -10,7 +10,7 @@
 
 ##### SKILLS
 - 💻 I know Go, Python, C/C++, OCaml, Rust and Java
-- ⚙ I can write efficient parallel programs in every language I know
+- ⚙️ I can write efficient parallel programs in every language I know
 - ☁️ I developed two microservices-based applications in Python and Docker using Flask, Postgres and mySQL
 - 🛠 I developed an interpreter for quantum protocols (ccs) in OCaml, ocamllex and menhir
 
